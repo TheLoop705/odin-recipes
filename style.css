@@ -1,0 +1,24 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  background-color: lightgray;
+}
+
+p {
+  margin: 15px;
+  font-size: 16px;
+}
+
+ol,
+ul {
+  font-weight: bold;
+}
+
+li {
+  font-weight: normal;
+  font-size: 14px;
+}
